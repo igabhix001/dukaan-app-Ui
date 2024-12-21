@@ -1,5 +1,5 @@
 import { Slidebar } from './components/Slidebar';
-import { Topbar } from './components/topbar';
+import { Topbar } from './components/Topbar';
 import { Overview } from './components/Overview';
 import { Transection } from './components/Transection';
 import { Table } from './components/Table';
